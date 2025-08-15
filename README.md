@@ -1,4 +1,3 @@
-<!-- Neon Typing Animation - Main Title -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=You+Can+Call+Me+%F0%9F%91%A8+SeriZ+%F0%9F%A7%AA" alt="Neon You Can Call Me SeriZ Orbitron Font" />
 </p>
@@ -8,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/araSeriZ/araSeriZ/main/gradient-bar.gif" height="8" alt="gradient bar" />
 </p>
 
-<!-- Welcome Animated GIF - Fixed with your link -->
+<!-- Welcome Animated GIF - Your custom link -->
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWthMGh6Z29vNXM4OWRyMXkwcWR3cGRnNHU5eXRwYXRib2JuN2UwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" height="120" alt="welcome gif" />
 </p>
@@ -46,39 +45,39 @@
 <!-- Animated Tech Stack -->
 <h2 align="center">Tech Stack & Tools</h2>
 <div align="center">
-  <!-- Each logo inside a rounded white circle with hover glow effect -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #FF00CC;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #39FF14;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #00FFFF;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #FFD700;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #FF4500;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #1E90FF;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #FF8C00;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #F7DF1E;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #4B8BBE;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #777BB4;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #092E20;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #333;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #E0234E;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #000;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #276DC3;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #00A4EF;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #19C700;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #5C2D91;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #007ACC;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" style="background:white; border-radius:50%; padding:6px; box-shadow:0 0 15px #FC6D26;" />
+  <!-- Each logo inside a rounded white circle with glow effect -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" style="background:white; border-radius:50%; padding:6px;" />
 </div>
 
 <br>
 
-<!-- Animated GIF for vibe -->
+<!-- Vibe GIF -->
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZvOTN0enZmMXJmNDZ6ejZlZjFucDM3cjkxOHppeHJ3MjJ5d2ljeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 </div>
 
 <br>
 
-<!-- Pacman Contribution Graph (Animated!) -->
+<!-- Pacman Contribution Graph -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/araSeriZ/araSeriZ/output/pacman-contribution-graph-dark.svg">
@@ -87,23 +86,7 @@
   </picture>
 </p>
 
-<!-- Footer Animated Heart -->
+<!-- Footer Animated Heart - No style tag! -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=900&size=32&pause=1000&color=FF00CC&center=true&vCenter=true&width=370&lines=Made+with+%F0%9F%92%96+by+SeriZ" alt="Made with love by SeriZ" />
 </p>
-
-<!-- Optional: Custom CSS for animation (only works if rendered by a markdown interpreter supporting style) -->
-<style>
-img[style*="border-radius:50%"]:hover {
-  box-shadow:0 0 40px #39FF14, 0 0 20px #FF00CC, 0 0 60px #FFD700;
-  transform: scale(1.15) rotate(-8deg);
-  transition: all 0.25s cubic-bezier(.32,1.56,.88,.84);
-}
-h1, h2, h3, p {
-  animation: fadeInUp 1.4s cubic-bezier(.42,2,.58,1);
-}
-@keyframes fadeInUp {
-  0% {opacity:0; transform:translateY(40px);}
-  100% {opacity:1; transform:translateY(0);}
-}
-</style>
