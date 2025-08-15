@@ -173,18 +173,31 @@
 
 ---
 
-<h2 align="center">Support Me 💸</h2>
+<h2 align="center">💸 Support Me</h2>
+
+<div align="center" style="margin-bottom: 12px;">
+  <b style="font-size:1.12em; background:#39FF14; color:#222; border-radius:14px; padding:7px 18px;">
+    If you want to support my work, you can donate via TON (The Open Network) Wallet:
+  </b>
+</div>
 
 <p align="center">
-  <b>Ton (TON) Wallet | <span id="tonwallet" style="background:#222;color:#39FF14;border-radius:8px;padding:4px 12px;user-select:all;">UQCBW4xlwAxHV_P-ZXlh1cz0oAJvmpVx1ttHEaLdoNg1i2bh</span></b>
-  <br>
-  <sub>Copy manually (GitHub markdown does not support click-to-copy)</sub>
+  <img src="https://img.shields.io/badge/TON%20Wallet-39FF14?style=for-the-badge&logo=ton&logoColor=white" alt="TON Wallet" />
 </p>
+
 <p align="center">
-  <b>Email:</b> <a href="mailto:www.araseriz@gmail.com" target="_blank">www.araseriz@gmail.com</a>
+  <code style="font-size:1.15em; background:#222; color:#39FF14; border-radius:12px; padding:8px 18px; user-select:all;">
+    UQCBW4xlwAxHV_P-ZXlh1cz0oAJvmpVx1ttHEaLdoNg1i2bh
+  </code>
 </p>
+
 <p align="center">
-  <b>Website:</b> <a href="https://ararix.ir" target="_blank">ararix.ir</a>
+  <a href="mailto:www.araseriz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF00CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ararix.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-39FF14?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ---
